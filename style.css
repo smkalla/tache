@@ -1,0 +1,157 @@
+body {
+    margin: 0; /* Réinitialise les marges par défaut */
+}
+
+.hi {
+    margin-left: 2rem; /* Utilisation de valeurs relatives */
+    margin-top: 4rem; /* Utilisation de valeurs relatives */
+    width: 500px;
+}
+
+.navbar {
+    margin-left: 2rem; /* Utilisation de valeurs relatives */
+}
+
+.navbar-nav {
+    margin-left: auto; /* Alignement à droite de la barre de navigation */
+}
+
+.card-img-top {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Ombre légère */
+}
+
+.card {
+    margin: auto;
+    max-width: 300px; /* Utilisation de max-width pour une meilleure responsivité */
+    border: none;
+}
+
+.card-text {
+    margin-left: 2rem; /* Utilisation de valeurs relatives */
+}
+
+.list {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+nav {
+    justify-content: flex-end;
+    text-align: end;
+    margin-top: auto;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Ombre légère */
+    border-bottom: 1px solid #ccc;
+    width: auto;
+}
+
+header {
+    background-color: rgb(207, 250, 235);
+}
+
+.img-fluid {
+    margin-left: auto; /* Alignement à droite de l'image */
+    
+}
+
+.img-fluid img {
+    background-color: #457B9D;
+}
+about {
+    margin-top: 2rem; /* Utilisation de valeurs relatives */
+}
+
+.btn {
+    margin-left: auto; /* Utilisation de valeurs relatives */
+    
+    border: 1px solid #457B9D; /* Correction de la propriété border */
+    
+}
+.col-md-12{
+    margin-top: 50px;
+    justify-content: center;
+    margin-left: 59px;
+}
+.col-md-12 h1{
+    text-align: center;
+}
+.col-md-12 h2{
+    text-align: center;
+}
+.div {
+    margin-top: 50px;
+    margin: auto;
+    background-color: rgb(207, 250, 235);
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.liste-langages {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    margin: 2rem auto; /* Utilisation de valeurs relatives */
+}
+
+.langage img {
+    width: 70px;
+    margin: 0 1rem; /* Utilisation de valeurs relatives */
+}
+
+.liste-projets {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    margin: 2rem auto; /* Utilisation de valeurs relatives */
+}
+
+.projet,
+img {
+    width: 250px;
+    margin: 0 1rem; /* Utilisation de valeurs relatives */
+}
+
+.container {
+    border: none;
+}
+
+.logo {
+    list-style-type: none;
+    display: flex;
+}
+
+.image img {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: rgb(207, 250, 235);
+    padding: 2rem; /* Ajout de rembourrage pour l'espace autour du contenu */
+    
+}
+
+footer h3,
+footer p {
+    margin-left: 60px; /* Utilisation de valeurs relatives */
+}
+
+.copyright {
+    margin-top: 2rem; /* Utilisation de valeurs relatives */
+    margin-left: 50px;
+}
+.col-md-4{
+    justify-content: center;
+}
+
+.hi {
+    margin-left: 2%; /* Utilisation de valeurs relatives */
+    margin-top: 4%; /* Utilisation de valeurs relatives */
+}
+
+.navbar {
+    margin-left: 2%; /* Utilisation de valeurs relatives */
+}
